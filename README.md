@@ -1,2 +1,2 @@
-# FDP
-Flight Dynamics Principles
+# Flight Dynamics Principles
+Latex files
